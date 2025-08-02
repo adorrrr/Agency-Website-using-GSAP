@@ -1,4 +1,8 @@
-<<<<<<< HEAD
+@font-face {
+    font-family: japan;
+    src: url(./3856NeueMachina.woff2);
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -15,6 +19,7 @@ section{
     height: 100%;
     width: 100%;
     position: relative;
+    overflow-x: hidden;
 
 }
 
@@ -57,100 +62,55 @@ nav button{
 
 .center{
     padding: 80px;
-    height: 85%;
+    height: 75%;
     width: 100%;
-    background-color: bisque;
     display: flex;
     justify-content: center;
 }
 
 .certer-part1{
     height: 100%;
-    width: 40%;
-}
-.certer-part2{
-    height: 100%;
-    width: 60%;
+    width: 45%;
 }
 
 .certer-part1 h1{
-    font-size: 100px;
-=======
-*{
-    margin: 0;
-    padding: 0;
-    box-shadow: border-box;
-    font-family: gilroy;
+    line-height: 1.2;
+    font-size: 90px;
+    font-family: japan;
+}
+
+.certer-part1 p{
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 35px;
 
 }
-html, body{
+
+.certer-part1 button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 25px 40px;
+    font-size: 25px;
+    font-weight: 600;
+    border: none;
+}
+
+.certer-part2{
     height: 100%;
-    width: 100%;
+    width: 55%;
+    display: flex;
+    justify-content: center;
 }
 
-section{
-    height: 100%;
-    width: 100%;
-    position: relative;
-
+.certer-part2 img{
+    height: 700px;
 }
 
-nav{
+.section1bottom{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 60px 80px;
+    padding: 10px 80px;
 }
 
-nav i{
-    display: inline-block;
-    rotate: 45deg;
-}
-
-.part2{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 80px;
-}
-
-nav h1{
-    font-size:50px ;
-}
-nav h4{
-    font-size: 30px ;
-    font-weight: 500;
-}
-nav button{
-    font-size: 22px;
-    background-color: transparent;
-    font-weight: 500;
-    padding: 22px 40px;
-    border-radius: 10px;
-    border: 2px solid #000;
-}
-
-
-
-.center{
-    padding: 80px;
-    height: 85%;
-    width: 100%;
-    background-color: bisque;
-    display: flex;
-    justify-content: center;
-}
-
-.certer-part1{
-    height: 100%;
-    width: 40%;
-}
-.certer-part2{
-    height: 100%;
-    width: 60%;
-}
-
-.certer-part1 h1{
-    font-size: 100px;
->>>>>>> c224233 (push)
-}
