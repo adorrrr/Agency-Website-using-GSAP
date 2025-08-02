@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-shadow: border-box;
+    font-family: gilroy;
+
+}
+html, body{
+    height: 100%;
+    width: 100%;
+}
+
+section{
+    height: 100%;
+    width: 100%;
+    position: relative;
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 80px;
+}
+
+.part2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+}
+
+nav h1{
+    font-size:50px ;
+}
+nav h4{
+    font-size: 30px ;
+    font-weight: 500;
+}
+nav button{
+    font-size: 22px;
+    background-color: transparent;
+    font-weight: 500;
+    padding: 22px 40px;
+    border-radius: 10px;
+    border: 2px solid #000;
+}
