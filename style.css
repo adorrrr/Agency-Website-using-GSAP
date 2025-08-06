@@ -127,6 +127,7 @@ nav button{
     border-radius: 10px;
     font-size: 42px;
     margin-right: 30px;
+    font-family: japan;
 }
 
 .title p{
@@ -138,16 +139,43 @@ nav button{
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 30px;
     padding-bottom: 80px;
 }
 
 .elem{
-    flex-shrink: 0;
+    /* flex-shrink: 0; */
     height: 400px;
     width: 45%;
-    border-radius: 3px solid black;
+    border: 2px solid rgb(0, 0, 0);
     border-radius: 20px;
-    background-color: #a7ff78;
     box-shadow: 0px 15px 0 black;
+    display: flex;
+
+}
+
+.elem-part1{
+    padding: 50px;
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.elem-part2 img{
+    height: 300px;
+    padding: 50px;
+}
+
+.elem-part1 h2{
+    font-size: 40px;
+    font-family: japan;
+    background-color: #a7ff78;
+    padding: 0px 5px;
+    border-radius: 10px;
+}
+
+.elem-part1 h4{
+    font-size: 20px;
+    font-family: japan;
 }
