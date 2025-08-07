@@ -31,7 +31,7 @@ tl.from(".section1bottom img",{
 },"-=1.5")
 
 }
-page1()
+
 
 function page2(){
     var tl2 = gsap.timeline({
@@ -73,4 +73,18 @@ tl2.from(".elem.line2.right",{
     duration:0.6
 },"elem1")
 }
+page1()
 page2()
+
+
+var main =document.querySelector("body")
+var course =document.querySelector("#course")
+
+main.addEventListener("mousemove", function(dets){
+    gsap.to(course,{
+        x:dets.x,
+        y:dets.y,
+        duration:.5,
+        ease:"black"
+    })
+})
