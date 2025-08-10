@@ -1,6 +1,6 @@
 # Project Name: Digital Marketing Agency Website 
 
-<img src="https://res.cloudinary.com/dphnu6u05/image/upload/v1754840115/Screenshot_2025-08-10_212633_jotvf0.png" alt="Digital Marketing Agency Website Preview" width="600"/>
+<img src="https://res.cloudinary.com/dphnu6u05/image/upload/v1754840249/Screenshot_2025-08-10_213717_vzznnv.png" alt="Digital Marketing Agency Website Preview" width="600"/>
 
 I’m excited to share my **latest portfolio project**, a **modern and responsive marketing agency website** built with **HTML**, **CSS**, and **JavaScript**, using **GSAP** for smooth animations and **ScrollTrigger** for scroll-based interactions.  
 
@@ -34,5 +34,6 @@ More pages and features will be added soon to enhance interactivity and performa
 
 📧 Email: [ahasanulmoniradar@gmail.com](mailto:ahasanulmoniradar@gmail.com)  
 🔗 LinkedIn: [Ahasanul Monir Adar](https://www.linkedin.com/in/ahasanul-monir-adar-8b8464274/)  
+
 
 
