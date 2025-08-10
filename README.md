@@ -35,10 +35,9 @@ The **Digital Marketing Agency Website** is a modern, fully responsive web proje
 - **ScrollTrigger** – Scroll-based effects  
 
 
-## Project Status
+##  Credits
 
-🚧 **Ongoing Development**  
-More pages and features will be added soon to enhance interactivity and performance.  
+* **Developed by:** [Ahasanul Monir Adar](https://www.linkedin.com/in/ahasanul-monir-adar-8b8464274/)  
 
 
 
@@ -46,6 +45,7 @@ More pages and features will be added soon to enhance interactivity and performa
 
 📧 Email: [ahasanulmoniradar@gmail.com](mailto:ahasanulmoniradar@gmail.com)  
 🔗 LinkedIn: [Ahasanul Monir Adar](https://www.linkedin.com/in/ahasanul-monir-adar-8b8464274/)  
+
 
 
 
