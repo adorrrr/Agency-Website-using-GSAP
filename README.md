@@ -4,9 +4,8 @@
 
 I’m excited to share my **latest portfolio project**, a **modern and responsive marketing agency website** built with **HTML**, **CSS**, and **JavaScript**, using **GSAP** for smooth animations and **ScrollTrigger** for scroll-based interactions.  
 
----
 
-## ✨ Features
+## Features
 
 - Custom **cursor animations** using GSAP  
 - **ScrollTrigger & Timeline** based effects for engaging UI  
@@ -14,9 +13,8 @@ I’m excited to share my **latest portfolio project**, a **modern and responsiv
 - Animated hero section with call-to-action  
 - Smooth transitions between sections  
 
----
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **HTML5** – Semantic markup  
 - **CSS3** – Styling & layout  
@@ -24,16 +22,16 @@ I’m excited to share my **latest portfolio project**, a **modern and responsiv
 - **GSAP** – Animations  
 - **ScrollTrigger** – Scroll-based effects  
 
----
 
-## 📅 Project Status
+## Project Status
 
 🚧 **Ongoing Development**  
 More pages and features will be added soon to enhance interactivity and performance.  
 
----
+
 
 ## 📬 Contact
 
 📧 Email: [ahasanulmoniradar@gmail.com](mailto:ahasanulmoniradar@gmail.com)  
 🔗 LinkedIn: [Ahasanul Monir Adar](https://www.linkedin.com/in/ahasanul-monir-adar-8b8464274/)  
+
